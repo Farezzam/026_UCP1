@@ -11,9 +11,6 @@ module.exports = (sequelize, DataTypes) => {
         author: {
             type: DataTypes.STRING,
         },
-        author: {
-            type: DataTypes.STRING,
-        },
         genre: {
             type: DataTypes.STRING,
         },
